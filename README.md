@@ -1,16 +1,16 @@
 ## Screenshots
 <!-- Include images -->
+In this screenshot below, you can see the main page of the App when the page is loaded. This is the initial state. Note that "Toronto" is set as a default initial value for the city query search.
 ![Screenshot_01](/screenshots/Screenshot_001.png)
-In this screenshot, you can see the main page of the App when the page is loaded. This is the initial state. Note that "Toronto" is set as a default initial value for the city query search.
 
+In this screenshot below, you can see the output when the user types "New York" in the search bar. We are displaying relevant information from the Weather API. We also made use of a free API for country flag, and the Weather API provided icons.
 ![Screenshot_02](/screenshots/Screenshot_002.png)
-In this screenshot, you can see the output when the user types "New York" in the search bar. We are displaying relevant information from the Weather API. We also made use of a free API for country flag, and the Weather API provided icons.
 
+In this screenshot below, you can see the output when the user types a city that does not exist. In this case, we are displaying a message letting the user know that the city does not exist.
 ![Screenshot_03](/screenshots/Screenshot_003.png)
-In this screenshot, you can see the output when the user types a city that does not exist. In this case, we are displaying a message letting the user know that the city does not exist.
 
+In this screenshot below, you can see the raw output from the weather API. This is the data source that we are using to display the information on the page.
 ![Screenshot_04](/screenshots/Screenshot_004.png)
-In this screenshot, you can see the raw output from the weather API. This is the data source that we are using to display the information on the page.
 
 # Getting Started with Create React App
 
